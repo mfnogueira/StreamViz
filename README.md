@@ -24,3 +24,4 @@
 Passionate data science student with strong skills in Python, R, and SQL, seeking opportunities for collaboration in related projects. My GitHub profile showcases my competencies and achievements.
 
 # StreamViz
+# StreamViz
